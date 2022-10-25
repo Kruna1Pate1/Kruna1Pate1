@@ -10,6 +10,8 @@
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/Kruna1Pate1?tab=repositories)
 
+- 📝 I regularly write articles on [blog.krunalpatel.me](https://blog.krunalpatel.me)
+
 - 💬 Ask me about **Android, Spring, Java, Kotlin**
 
 - 📫 How to reach me **kbpatel5802@gmail.com**
@@ -18,8 +20,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kruna1pate1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kruna1pate1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kruna1pate1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kruna1pate1" height="30" width="40" /></a>
+<a href="https://hashnode.com/@Kruna1Pate1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="kruna1pate1" height="30" width="40" /></a>
+  <a href="https://twitter.com/kruna1pate1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kruna1pate1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kruna1pate1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kruna1pate1" height="30" width="40" /></a>
 </p>
 
