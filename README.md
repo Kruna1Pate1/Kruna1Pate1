@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Krunal Patel</h1>
-<h3 align="center">A passionate Android and Backend developer from India :india:</h3>
+<h3 align="center">A passionate iOS, Android, and Backend developer from India :india:</h3>
 <img align="right" width="400" alt="Coding" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 - 🔭 I’m currently working on [Pictionary Game](https://github.com/Kruna1Pate1/Pictionary-Game)
@@ -10,9 +10,9 @@
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/Kruna1Pate1?tab=repositories)
 
-- 📝 I regularly write articles on [blog.krunalpatel.me](https://blog.krunalpatel.me)
+- 📝 I regularly write articles on [krunalpatel.hashnode.dev](https://krunalpatel.hashnode.dev/)
 
-- 💬 Ask me about **Android, Spring, Java, Kotlin**
+- 💬 Ask me about **iOS, Swift, Android, Spring, Java, Kotlin**
 
 - 📫 How to reach me **kbpatel5802@gmail.com**
 
